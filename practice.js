@@ -51,6 +51,8 @@ var welcome = function() {
 /*
 	Paramaters are variables that a function is calling in order to use their info in the function
 	Arguments mostly use paramaters to perform calculations.
+
+	paramaters are names of variables, arguments are their values.
 */
 
 //Next problem
